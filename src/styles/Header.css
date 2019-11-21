@@ -1,0 +1,22 @@
+
+img {
+    width: 100%;
+}
+
+.header-container {
+    position: relative;
+    text-align: center;
+}
+
+.text-container {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    font-family: rickFont;
+    color: rgb(32, 248, 3);
+}
+
+@font-face {
+    font-family: "rickFont";
+    src: url('./Rick_font/Get_Schwifty/get_schwifty__a_rick_and_morty_font_by_jonizaak_dajw4u8.ttf') format('truetype');
+}
