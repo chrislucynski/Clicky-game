@@ -2,87 +2,82 @@
     {
         "id": 1,
         "name": "Cop Rick",
-        "path": "../images/Cop_Rick.png"
+        "path": "./images/Cop_Rick.png"
     },
     {
         "id": 2,
         "name": "Cronenberg Rick",
-        "path": "../images/Cronenberg_Rick.png"
+        "path": "./images/Cronenberg_Rick.png"
     },
     {
         "id": 3,
         "name": "Doofus Rick",
-        "path": "../images/Doofus_Rick.png"
+        "path": "./images/Doofus_Rick.png"
     },
     {
         "id": 4,
         "name": "Drunk Rick",
-        "path": "../images/Drunk_Rick.png"
+        "path": "./images/Drunk_Rick.png"
     },
     {
         "id": 5,
         "name": "Evil Rick",
-        "path": "../images/Evil_Rick.png"
+        "path": "./images/Evil_Rick.png"
     },
     {
         "id": 6,
         "name": "Future Rick",
-        "path": "../images/Future_Rick.png"
+        "path": "./images/Future_Rick.png"
     },
     {
         "id": 7,
         "name": "Past Rick",
-        "path": "../images/Past_Rick.png"
+        "path": "./images/Past_Rick.png"
     },
     {
         "id": 8,
         "name": "Pickle Rick",
-        "path": "../images/Pickle_Rick.png"
+        "path": "./images/Pickle_Rick.png"
     },
     {
         "id": 9,
         "name": "Rick 0716-B",
-        "path": "../images/Rick_0716-B.png"
+        "path": "./images/Rick_0716-B.png"
     },
     {
         "id": 10,
         "name": "Rick C-137",
-        "path": "../images/Rick_C-137.png"
+        "path": "./images/Rick_C-137.png"
     },
     {
         "id": 11,
         "name": "Rick Sanchez III",
-        "path": "../images/Rick_Sanchez_III.png"
+        "path": "./images/Rick_Sanchez_III.png"
     },
     {
         "id": 12,
         "name": "Seal Team Ricks",
-        "path": "../images/Seal_Team_Rick.png"
+        "path": "./images/Seal_Team_Rick.png"
     },
     {
         "id": 13,
         "name": "Simple Rick",
-        "path": "../images/Simple_Rick.png"
+        "path": "./images/Simple_Rick.png"
     },
     {
         "id": 14,
         "name": "Slow Rick",
-        "path": "../images/Slow_Rick.png"
+        "path": "./images/Slow_Rick.png"
     },
     {
         "id": 15,
         "name": "Tiny Rick",
-        "path": "../images/Tiny_Rick.png"
+        "path": "./images/Tiny_Rick.png"
     },
     {
         "id": 16,
         "name": "Toxic Rick",
-        "path": "../images/Toxic_Rick.png"
-    },
-    {
-        "id": 17,
-        "name": "galaxy",
-        "path": "../images/galaxy"
+        "path": "./images/Toxic_Rick.png"
     }
 ]
 
