@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clicky-game/static/css/main.dfcae131.chunk.css",
+    "main.js": "/Clicky-game/static/js/main.59fbfc19.chunk.js",
+    "main.js.map": "/Clicky-game/static/js/main.59fbfc19.chunk.js.map",
+    "runtime-main.js": "/Clicky-game/static/js/runtime-main.6d23abd1.js",
+    "runtime-main.js.map": "/Clicky-game/static/js/runtime-main.6d23abd1.js.map",
+    "static/js/2.bf34ed30.chunk.js": "/Clicky-game/static/js/2.bf34ed30.chunk.js",
+    "static/js/2.bf34ed30.chunk.js.map": "/Clicky-game/static/js/2.bf34ed30.chunk.js.map",
+    "index.html": "/Clicky-game/index.html",
+    "precache-manifest.9f488e9ba72547b70b6cd4bd570a7205.js": "/Clicky-game/precache-manifest.9f488e9ba72547b70b6cd4bd570a7205.js",
+    "service-worker.js": "/Clicky-game/service-worker.js",
+    "static/css/main.dfcae131.chunk.css.map": "/Clicky-game/static/css/main.dfcae131.chunk.css.map",
+    "static/media/galaxy.jpg": "/Clicky-game/static/media/galaxy.d2fd7734.jpg",
+    "static/media/Header.css": "/Clicky-game/static/media/get_schwifty__a_rick_and_morty_font_by_jonizaak_dajw4u8.4b4420cf.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d23abd1.js",
+    "static/js/2.bf34ed30.chunk.js",
+    "static/css/main.dfcae131.chunk.css",
+    "static/js/main.59fbfc19.chunk.js"
+  ]
+}
